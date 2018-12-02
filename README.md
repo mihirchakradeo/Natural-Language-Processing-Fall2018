@@ -3,3 +3,4 @@ This repository contains my solutions to the assignments for the course CSE 538,
 
 ### Contents
 1. Generating Word Embeddings based on the skip gram formulation
+2. POS Tagger
